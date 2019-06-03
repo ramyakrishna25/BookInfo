@@ -1,6 +1,6 @@
 package com.nytimes.booksinfo.retrofit;
 
-import com.cloudpeppers.user.apis.URLController;
+import com.nytimes.booksinfo.apis.URLController;
 import com.nytimes.booksinfo.utils.Utility;
 
 import java.util.concurrent.TimeUnit;
